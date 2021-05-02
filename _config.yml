@@ -2,13 +2,13 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://yuanyang77.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+title: 蓝色空间
+subtitle: "小运维"
+description: "IT 小运维"
+keywords: 运维的空间
+timezone: Asia/Shenzheng
 encoding: "utf-8"
 side_bar_repo_limit: 5
 repository: mzlogin/mzlogin.github.io
@@ -53,7 +53,7 @@ author: Zhuang Ma
 organization: 
 organization_url: 
 github_username: mzlogin
-location: Wuhan, China
+location: Shenzhen, China
 email: chumpma@gmail.com
 
 # ---------------- #
